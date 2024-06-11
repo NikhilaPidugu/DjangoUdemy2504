@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+.color{
+    margin: auto;
+}
+
+td{
+    background-color: black;
+    height: 300px;
+    width: 150px;
+    border: 6px solid white;
+}
+
+#one{
+    background-color:aqua ;
+}
+
+#two{
+    background-color: rgb(225, 225, 139);
+}
+
+#three{
+    background-color: rgb(227, 187, 220);
+}
+
+#four{
+    background-color: rgb(168, 108, 108);
+}
+#five{
+    background-color: #A8201A;
+}
